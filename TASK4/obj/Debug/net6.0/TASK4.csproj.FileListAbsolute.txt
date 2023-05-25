@@ -1,0 +1,15 @@
+D:\NS GB\3. ЯЗЫКИ ПРОГРАММИРОВАНИЯ\ДЗ СЕМИНАР 1\TASK4\obj\Debug\net6.0\TASK4.csproj.AssemblyReference.cache
+D:\NS GB\3. ЯЗЫКИ ПРОГРАММИРОВАНИЯ\ДЗ СЕМИНАР 1\TASK4\obj\Debug\net6.0\TASK4.GeneratedMSBuildEditorConfig.editorconfig
+D:\NS GB\3. ЯЗЫКИ ПРОГРАММИРОВАНИЯ\ДЗ СЕМИНАР 1\TASK4\obj\Debug\net6.0\TASK4.AssemblyInfoInputs.cache
+D:\NS GB\3. ЯЗЫКИ ПРОГРАММИРОВАНИЯ\ДЗ СЕМИНАР 1\TASK4\obj\Debug\net6.0\TASK4.AssemblyInfo.cs
+D:\NS GB\3. ЯЗЫКИ ПРОГРАММИРОВАНИЯ\ДЗ СЕМИНАР 1\TASK4\obj\Debug\net6.0\TASK4.csproj.CoreCompileInputs.cache
+D:\NS GB\3. ЯЗЫКИ ПРОГРАММИРОВАНИЯ\ДЗ СЕМИНАР 1\TASK4\bin\Debug\net6.0\TASK4.exe
+D:\NS GB\3. ЯЗЫКИ ПРОГРАММИРОВАНИЯ\ДЗ СЕМИНАР 1\TASK4\bin\Debug\net6.0\TASK4.deps.json
+D:\NS GB\3. ЯЗЫКИ ПРОГРАММИРОВАНИЯ\ДЗ СЕМИНАР 1\TASK4\bin\Debug\net6.0\TASK4.runtimeconfig.json
+D:\NS GB\3. ЯЗЫКИ ПРОГРАММИРОВАНИЯ\ДЗ СЕМИНАР 1\TASK4\bin\Debug\net6.0\TASK4.dll
+D:\NS GB\3. ЯЗЫКИ ПРОГРАММИРОВАНИЯ\ДЗ СЕМИНАР 1\TASK4\bin\Debug\net6.0\TASK4.pdb
+D:\NS GB\3. ЯЗЫКИ ПРОГРАММИРОВАНИЯ\ДЗ СЕМИНАР 1\TASK4\obj\Debug\net6.0\TASK4.dll
+D:\NS GB\3. ЯЗЫКИ ПРОГРАММИРОВАНИЯ\ДЗ СЕМИНАР 1\TASK4\obj\Debug\net6.0\refint\TASK4.dll
+D:\NS GB\3. ЯЗЫКИ ПРОГРАММИРОВАНИЯ\ДЗ СЕМИНАР 1\TASK4\obj\Debug\net6.0\TASK4.pdb
+D:\NS GB\3. ЯЗЫКИ ПРОГРАММИРОВАНИЯ\ДЗ СЕМИНАР 1\TASK4\obj\Debug\net6.0\TASK4.genruntimeconfig.cache
+D:\NS GB\3. ЯЗЫКИ ПРОГРАММИРОВАНИЯ\ДЗ СЕМИНАР 1\TASK4\obj\Debug\net6.0\ref\TASK4.dll
